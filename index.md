@@ -3,61 +3,34 @@ layout: default
 ---
 # Rahul Rai
 
-iOS Developer | SDE
+--- 
+
+## 👨‍💻 About Me  
+- Self taught iOS developer 
+- Love to mimic and make complex UI animations and effects, both on my own and through blogs for iOS devices.
+- Passionate about solving complex problems in mobile app development.
+- Experience in Web development, Backend (Flask), Databases, Machine Learning, and Data Science through university courses and mini projects.
+- Constantly learning and exploring 
 
 ---
 
 ## 🎓 Education  
-- 🎓 **IIT Gandhinagar**  
+- 🎓 **IIT Gandhinagar (India)**  
   - **Degree**: B.Tech in Computer Science and Engineering  
   - **Graduation**: 2024  
 
 ---
 
 ## 💼 Work Experience  
-- 🛠️ **SDE(iOS) Intern (May 2023 – July 2023)**  
-  - Researched tunneling protocols for VPN establishment, including **Personal VPN** using **IKEv2** protocol and **Packet Tunnel Provider** using a custom protocol within **Apple's Network Extensions API**.
-  - Did **packet handling** and crafted a **customized tunnel protocol**, enabling **successful connection** to a **remote server** and seamless transmission of **IP Packets**.
-
-
----
-
-## 📱 Projects  
-
-### **Blinkit Clone**  
-<!-- 
-<table>
-  <tr>
-    <td><a href="https://github.com/user-attachments/assets/4f79bbe8-4ac8-4276-8216-8a8dbe1557d5" target="_blank">
-        <img src="https://github.com/user-attachments/assets/4f79bbe8-4ac8-4276-8216-8a8dbe1557d5" alt="App Video" style="width: 120px; height: auto;"></a></td>
-    <td><img src="https://github.com/user-attachments/assets/31563eb1-786b-440f-a954-0e7582a25616" alt="Main Home Page" style="width: 120px; height: auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/5a379b1f-117e-4a60-8153-3235eea2bd85" alt="Location Bottom Sheet (Not enabled)" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/0c90265b-0a23-441a-b0f4-74fe368cbb85" alt="Location Bottom Sheet (Enabled)" style="width: 120px; height: auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/62ffa1e7-b93d-4421-a029-6a21a1447e67" alt="Order Screen (Empty Cart)" style="width: 120px; height: auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/7a91b597-aa08-4605-8301-6cef9ed98e3d" alt="Order Screen (Cart Filled)" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/2ec1ff04-c126-4f92-800b-fdf3b35e6470" alt="App Category View (Normal)" style="width: 120px; height: auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/0dc3cd58-caf2-4a9c-9638-46dc3f964b4e" alt="App Category View (Items Added)" style="width: 120px; height: auto;"></td>
-    <td><img src="https://github.com/user-attachments/assets/7ee72973-5c1e-40c5-9aed-045fbda5fabf" alt="Account - User" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/3d01273e-26df-4f4d-8ca7-eaa9773e0a34" alt="Account - Address" style="width: 120px; height: auto;"></td>
-  </tr>
-</table> -->
-
-
-- **Tech Stack**: Swift, SwiftUI  
-- **Key Features**:  
-  - Vertical product list  
-  - Custom tab bar  
-  - Core Data integration  
+- 🛠️ **SDE(iOS) Intern @Truminds, Gurugram (May 2023 – July 2023)**  
+  - Researched tunneling protocols for VPN establishment, including Personal VPN using IKEv2 protocol and Packet Tunnel Provider using a custom protocol within Apple's Network Extensions API.
+  - Did packet handling and crafted a customized tunnel protocol, enabling successful connection to a remote server and seamless transmission of IP Packets.
 
 ---
 
-### **Swipe App**  
+## 📱 iOS Projects  
+
+### **Swipe App** [GitHub Link](https://github.com/RahulRai02/SwipeTakeHomeAssignment)
 
 <table style="width:100%; text-align:center; border-spacing: 20px;">
   <tr>
@@ -83,159 +56,79 @@ iOS Developer | SDE
 </table>
 
 
-- **Tech Stack**: SwiftUI  
+- **Tech Stack**: Swift, SwiftUI, Combine, UIKit (For Photo Picker)
 - **Key Features**:  
-  - Smooth swipe gestures  
-  - Intuitive design  
+  - 2 Screens: Product Listing and Add Product following MVVM architecture
+  - Display a scrollable list of products retrieved from an API.
+  - Search through the product list in real time.
+  - Favorite Feature: Favorited products appear at the top of the list, saved locally.
+  - Add Product form validation for all fields
+  - Image upload, using UIKIT's UIImagePickerController
+  - Offline functionality: When internet goes off and you try adding a product it gets saved locally in CoreData and once the internet is back, click sync button and the product will get synced.
+  - Alerts for errors and successful addition of products.
+
+### **Blinkit Clone** [GitHub Link](https://github.com/RahulRai02/BlinkitCloneSwift)
+
+<table>
+  <tr>
+    <td><img src="assets/img/blinkit/homepage-portrait.png" alt="Main Home Page" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/locationBottomSheet-portrait.png" alt="Location Bottom Sheet (Not enabled)" style="width: 120px; height: auto;"></td>
+
+  </tr>
+  <tr>
+    <td><img src="assets/img/blinkit/locationBottomSheetLocationEnabled-portrait.png" alt="Location Bottom Sheet (Enabled)" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/cartEmpty-portrait.png" alt="Order Screen (Empty Cart)" style="width: 120px; height: auto;"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/blinkit/cartSectionWithUpdatedTotal-portrait.png" alt="Order Screen (Cart Filled)" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/switchingCategories-portrait.png" alt="Order Screen (Cart Filled)" style="width: 120px; height: auto;"></td>
+  </tr>
+  <tr>
+    <td><img src="assets/img/blinkit/browseCategories-portrait.png" alt="App Category View (Normal)" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/buttonStateAnimation-portrait.png" alt="App Category View (Items Added)" style="width: 120px; height: auto;"></td>
+  </tr>
+  <tr>
+     <td><img src="assets/img/blinkit/AccountScreen-portrait.png" alt="Account - User" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/accountAddressesScreen-portrait.png" alt="Account - Address" style="width: 120px; height: auto;"></td>
+  </tr>
+</table>
+
+
+- **Tech Stack**: Swift, SwiftUI, CoreData, App Storage, CoreLocation, MapKit 
+- **Key Features**:  
+  - Pull Down and Pull up gesture: Pulling down from 2nd category, switches to first category. Similary for pull up from where the content ends switches to next category. 
+  - Complex 2 partion Layout following MVVM architecture
+  - Add to Cart functionality
+  - Add to cart button animation shown when qunaity is 0 or more. if more + and - shown.. Consistent across other views as well.
+  - Order Total
+  - Account Screen for User data and addresses.
+  - App Storage for user data
+  - Core Data for CRUD on Addresses
+  - Location Sheet, takes user current location, used Core Location
 
 ---
 
 ## 🛠️ Skills  
-- **Languages**: Swift, Python, C++  
-- **Frameworks**: SwiftUI, Core Data, MapKit  
-- **Tools**: Git, Overleaf  
+- **Languages**: Swift, Python(NumPy, Pandas, Scikit-Learn, Matplotlib), C++, C, HTML, Bootstrap, SQL, Javascript
+- **Frameworks**: SwiftUI, CoreData, MapKit, CoreLocation, UIKit, Combine, Flask
+- **Tools**: XCode, Git, Github, MySQL, Docker, Wireshark,   
 
 ---
 
-## 🏆 Achievements  
-- **Cyber Security Hackathon Winner**  
-  - Secured 1st place at IIT Gandhinagar hackathon.  
+## 🏆 Achievements
 
-- **Compiler Project**  
-  - Created a hybrid programming language with bytecode execution.  
-
----
-
-## 👨‍💻 About Me  
-- Passionate about mobile app development and solving complex problems.  
-- Constantly learning and exploring new technologies.  
+- **5th place** in IITGN’s **HACKRUSH Hackathon** (1st among 2nd-year participants).
+- **1st school rank**, **19th state rank** in **National Cyber Olympiad**, awarded **Zonal Gold Medal**.
+- Solved **450+ problems** on **Leetcode** and **GFG**.
+- Qualified for **Publicis Sapient Jumpstart 2022** (out of 29,000+ students).
+guage with bytecode execution.  
 
 ---
 
-## 📧 Contact  
-- **Email**: rahul.rai@example.com  
-- **LinkedIn**: [linkedin.com/in/rahulrai](https://linkedin.com/in/rahulrai)  
+## 📧 Contact Me 
+- **Email**: rahulr0211@gmail.com
+- **LinkedIn**: [linkedin.com/in/rahulrai](https://www.linkedin.com/in/rahulrai02/)  
 
 
 
 
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
