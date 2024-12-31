@@ -73,22 +73,16 @@ layout: default
   <tr>
     <td><img src="assets/img/blinkit/homepage-portrait.png" alt="Main Home Page" style="width: 120px; height: auto;"></td>
     <td><img src="assets/img/blinkit/locationBottomSheet-portrait.png" alt="Location Bottom Sheet (Not enabled)" style="width: 120px; height: auto;"></td>
-
+  <td><img src="assets/img/blinkit/locationBottomSheetLocationEnabled-portrait.png" alt="Location Bottom Sheet (Enabled)" style="width: 120px; height: auto;"></td>
   </tr>
-  <tr>
-    <td><img src="assets/img/blinkit/locationBottomSheetLocationEnabled-portrait.png" alt="Location Bottom Sheet (Enabled)" style="width: 120px; height: auto;"></td>
+  <tr> 
     <td><img src="assets/img/blinkit/cartEmpty-portrait.png" alt="Order Screen (Empty Cart)" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
     <td><img src="assets/img/blinkit/cartSectionWithUpdatedTotal-portrait.png" alt="Order Screen (Cart Filled)" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/blinkit/switchingCategories-portrait.png" alt="Order Screen (Cart Filled)" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
     <td><img src="assets/img/blinkit/browseCategories-portrait.png" alt="App Category View (Normal)" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/blinkit/buttonStateAnimation-portrait.png" alt="App Category View (Items Added)" style="width: 120px; height: auto;"></td>
   </tr>
   <tr>
-     <td><img src="assets/img/blinkit/AccountScreen-portrait.png" alt="Account - User" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/buttonStateAnimation-portrait.png" alt="App Category View (Items Added)" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/blinkit/AccountScreen-portrait.png" alt="Account - User" style="width: 120px; height: auto;"></td>
     <td><img src="assets/img/blinkit/accountAddressesScreen-portrait.png" alt="Account - Address" style="width: 120px; height: auto;"></td>
   </tr>
 </table>
