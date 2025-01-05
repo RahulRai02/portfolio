@@ -30,12 +30,13 @@ layout: default
 
 ## 🚀My Self-Taught iOS Journey 
 
-- As a **self-taught iOS developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository on my [Swift & SwiftUI Learning Repositry](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
+  - As a **self-taught iOS developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository on my [Swift & SwiftUI Learning Repositry](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
+
 ---
 
 ## 📱 iOS Projects  
 
-### **Swipe App** [GitHub Link](https://github.com/RahulRai02/SwipeTakeHomeAssignment)
+### **Swipe App** [🔗](https://github.com/RahulRai02/SwipeTakeHomeAssignment)
 
 <table style="width:100%; text-align:center; border-spacing: 20px;">
   <tr>
@@ -61,11 +62,11 @@ layout: default
     - **Scrollable Product List**: Fetch and display products from an API.  
     - **Real-Time Search**: Instantly filter products as you type.  
     - **Favorites**: Mark products as favorite, saved locally and displayed at the top of the list.  
-    - **Add Product Form**: Validate all fields and upload images using `UIImagePickerController`.  
+    - **Add Product Form**: Validate all fields and upload images using UIImagePickerController.  
     - **Offline Mode**: Save products offline using Core Data and sync them once the internet is back.  
     - **Alerts**: Notify users about errors or successful actions.  
 
-### **Blinkit Clone** [GitHub Link](https://github.com/RahulRai02/BlinkitCloneSwift)
+### **Blinkit Clone** [🔗](https://github.com/RahulRai02/BlinkitCloneSwift)
 
 <table>
   <tr>
@@ -114,7 +115,7 @@ layout: default
 
 - 5th place in IITGN’s HACKRUSH Hackathon (**1st** among 2nd-year participants).
 - 1st school rank, 19th state rank in National Cyber Olympiad, awarded **Zonal Gold Medal**.
-- Solved **450+** problems on [**Leetcode**](https://leetcode.com/u/rahulrai_02/) and [**GFG**](https://www.geeksforgeeks.org/user/rahu02/).
+- Solved **450+** problems on [**Leetcode 🔗**](https://leetcode.com/u/rahulrai_02/) and [**GFG 🔗**](https://www.geeksforgeeks.org/user/rahu02/).
 - Qualified for **Publicis Sapient Jumpstart 2022** (out of 29,000+ students).
  
 ---
