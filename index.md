@@ -41,7 +41,7 @@ As a **self-taught iOS developer**, I have explored and implemented various conc
   <tr>
     <td><img src="assets/img/swipe/HomePageLight.png" alt="LightMode_HomeView" style="width: 120px; height: auto;"></td>
     <td><img src="assets/img/swipe/HomePageDark.png" alt="DarkMode_HomeView" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/DarkMode_AddProductView.png" alt="AddProductView" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/AddProduct.png" alt="AddProductView" style="width: 120px; height: auto;"></td>
   </tr>
   <tr>
     <td><img src="assets/img/swipe/AlertProductAdd.png" alt="Alert_AddProductView" style="width: 120px; height: auto;"></td>
