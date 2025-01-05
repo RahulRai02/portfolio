@@ -28,44 +28,42 @@ layout: default
 
 ---
 
+## 🚀My Self-Taught iOS Journey 
+
+As a **self-taught iOS developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository here: [SwiftUI Learning Repository](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
+---
+
 ## 📱 iOS Projects  
 
 ### **Swipe App** [GitHub Link](https://github.com/RahulRai02/SwipeTakeHomeAssignment)
 
 <table style="width:100%; text-align:center; border-spacing: 20px;">
   <tr>
-    <td><img src="assets/img/swipe/DarkMode_HomeView.png" alt="DarkMode_HomeView" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/LightMode_HomeView.png" alt="LightMode_HomeView" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/DarkMode_AddProductView.png" alt="DarkMode_AddProductView" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/HomePageLight.png" alt="LightMode_HomeView" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/HomePageDark.png" alt="DarkMode_HomeView" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/DarkMode_AddProductView.png" alt="AddProductView" style="width: 120px; height: auto;"></td>
   </tr>
   <tr>
-    <td><img src="assets/img/swipe/LightMode_AddProductView.png" alt="LightMode_AddProductView" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/DarkMode_OfflineState.png" alt="DarkMode_OfflineState" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/LightMode_OfflineState.png" alt="LightMode_OfflineState" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/img/swipe/ProductToSync.png" alt="ProductToSync" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/AddedProductWhenOnlineByClick.png" alt="AddedProductWhenOnlineByClick" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/ProductAdded.png" alt="ProductAdded" style="width: 120px; height: auto;"></td>
-  </tr>
-  <tr>
-    <td><img src="assets/img/swipe/ProductLiked.png" alt="ProductLiked" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/Search by title.png" alt="SearchByTitle" style="width: 120px; height: auto;"></td>
-    <td><img src="assets/img/swipe/SearchByType.png" alt="SearchByType" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/AlertProductAdd.png" alt="Alert_AddProductView" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/Search.png" alt="Search" style="width: 120px; height: auto;"></td>
+    <td><img src="assets/img/swipe/OfflineFunctionality.png" alt="OfflineFunctionality" style="width: 120px; height: auto;"></td>
   </tr>
 </table>
 
 
 - **Tech Stack**: Swift, SwiftUI, Combine, UIKit (For Photo Picker)
 - **Key Features**:  
-  - 2 Screens: Product Listing and Add Product following MVVM architecture
-  - Display a scrollable list of products retrieved from an API.
-  - Search through the product list in real time.
-  - Favorite Feature: Favorited products appear at the top of the list, saved locally.
-  - Add Product form validation for all fields
-  - Image upload, using UIKIT's UIImagePickerController
-  - Offline functionality: When internet goes off and you try adding a product it gets saved locally in CoreData and once the internet is back, click sync button and the product will get synced.
-  - Alerts for errors and successful addition of products.
+  - Screens:  
+    - **Product Listing**: View and search through a list of products.  
+    - **Add Product**: Add new products with form validation and image upload.  
+
+  - **Functionalities**:  
+    - **Scrollable Product List**: Fetch and display products from an API.  
+    - **Real-Time Search**: Instantly filter products as you type.  
+    - **Favorites**: Mark products as favorite, saved locally and displayed at the top of the list.  
+    - **Add Product Form**: Validate all fields and upload images using `UIImagePickerController`.  
+    - **Offline Mode**: Save products offline using Core Data and sync them once the internet is back.  
+    - **Alerts**: Notify users about errors or successful actions.  
 
 ### **Blinkit Clone** [GitHub Link](https://github.com/RahulRai02/BlinkitCloneSwift)
 
@@ -90,15 +88,15 @@ layout: default
 
 - **Tech Stack**: Swift, SwiftUI, CoreData, App Storage, CoreLocation, MapKit 
 - **Key Features**:  
-  - Pull Down and Pull up gesture: Pulling down from 2nd category, switches to first category. Similary for pull up from where the content ends switches to next category. 
-  - Complex 2 partion Layout following MVVM architecture
-  - Add to Cart functionality
-  - Add to cart button animation shown when qunaity is 0 or more. if more + and - shown.. Consistent across other views as well.
-  - Order Total
-  - Account Screen for User data and addresses.
-  - App Storage for user data
-  - Core Data for CRUD on Addresses
-  - Location Sheet, takes user current location, used Core Location
+  - **Gesture Navigation**: Pull down/up gestures for category switching.  
+  - **Dynamic Layout**: Complex two-part layout using **MVVM architecture**.  
+  - **Add to Cart**: Animated add-to-cart functionality with dynamic quantity controls.  
+  - **Order Summary**: Displays order total in real time.  
+  - **Account Screen**: Manage user data and addresses.  
+  - **Persistence**:  
+    - **AppStorage** for user data.  
+    - **Core Data** for address CRUD operations.  
+  - **Location Integration**: Location sheet using **Core Location** to fetch user’s current location.  
 
 ---
 
@@ -109,14 +107,16 @@ layout: default
 
 ---
 
+
+
+
 ## 🏆 Achievements
 
-- **5th place** in IITGN’s **HACKRUSH Hackathon** (1st among 2nd-year participants).
-- **1st school rank**, **19th state rank** in **National Cyber Olympiad**, awarded **Zonal Gold Medal**.
-- Solved **450+ problems** on **Leetcode** and **GFG**.
+- 5th place in IITGN’s HACKRUSH Hackathon (**1st** among 2nd-year participants).
+- 1st school rank, 19th state rank in National Cyber Olympiad, awarded **Zonal Gold Medal**.
+- Solved **450+** problems on [**Leetcode**](https://leetcode.com/u/rahulrai_02/) and [**GFG**](https://www.geeksforgeeks.org/user/rahu02/).
 - Qualified for **Publicis Sapient Jumpstart 2022** (out of 29,000+ students).
-guage with bytecode execution.  
-
+ 
 ---
 
 ## 📧 Contact Me 
