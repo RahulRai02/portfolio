@@ -8,7 +8,7 @@ layout: default
 ## 👨‍💻 About Me  
 - Self taught iOS developer 
 - Love to mimic and make complex UI animations and effects, both on my own and through blogs for iOS devices.
-- Passionate about solving complex problems in mobile app development.
+- Passionate about solving complex problems.
 - Experience in Web development, Backend (Flask), Databases, Machine Learning, and Data Science through university courses and mini projects.
 - Constantly learning and exploring 
 
@@ -29,7 +29,7 @@ layout: default
 ---
 
 ## 🚀My Self-Taught iOS Journey 
-  - As a **self-taught iOS developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository on my [Swift & SwiftUI Learning Repositry](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
+  - As a **Self-taught iOS Developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository on [Swift & SwiftUI Learning Repositry 🔗](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
 
 ---
 
@@ -87,7 +87,7 @@ layout: default
   - **Sticky Header**: Sticky header with search bar and filter tabs.
   - **Restaurant Details**: Matched Geometry effect (Kind of zoomed in effect) on image to details page.
   - **Filter**: Filter restaurants by filters provided.
-  - **MVVM* Architecture**
+  - **MVVM Architecture**
   - Check app video [here🔗](https://drive.google.com/file/d/1S-eXk_zo3nUE1Wcz3cs6zT63THhQGFia/view?usp=sharing) 
 
 
@@ -174,6 +174,7 @@ layout: default
 ## 📧 Contact Me 
 - **Email**: rahulr0211@gmail.com
 - **LinkedIn**: [linkedin.com/in/rahulrai](https://www.linkedin.com/in/rahulrai02/)  
+- **Github**: [github.com/RahulRai02](https://github.com/RahulRai02/)
 
 
 
