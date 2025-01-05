@@ -145,27 +145,27 @@ layout: default
 
 ## Other Domain Projects
 
-## Karma Programming Language [🔗](https://github.com/RahulRai02/compilers_project)  
+### Karma Programming Language [🔗](https://github.com/RahulRai02/compilers_project)  
 - Created a **programming language** in a team of 4, using **Python**. Implemented features like **variable declarations**, **loops**, **conditionals**, **data structures**, and **functions**.  
 - Generated **bytecode** for elements like **loops**, **conditionals**, **lists**, and **functions**, enabling execution on a **virtual machine (VM)**. Conducted performance testing with larger inputs.  
 
 ---
 
-## NEEV Website, IIT Gandhinagar [🔗](https://github.com/RahulRai02/NEEV-Website)  
+### NEEV Website, IIT Gandhinagar [🔗](https://github.com/RahulRai02/NEEV-Website)  
 - Built a **Flask-powered web app** with **MySQL**, **HTML**, and **Bootstrap** to manage user data for the **NEEV community outreach program** at IIT Gandhinagar.  
 - Collaborated with **NEEV** to gather requirements and created a comprehensive **ER Diagram** with **13 entities** and **14 relationships**.  
 
 
 ---
 
-## Analyzed Worldwide Growth of AI [🔗](https://sandeep-desai.github.io/CS328-WrittenAssignment/)
+### Analyzed Worldwide Growth of AI [🔗](https://sandeep-desai.github.io/CS328-WrittenAssignment/)
   - Conducted **Exploratory Data Analysis (EDA)** on the growth of **AI** worldwide using datasets from ICML, NeurIPS, and ICLR conferences (2006–2021).  
   - Developed **interactive visualizations** and **choropleth maps** to showcase country-wise AI research and growth rates.  
   - Identified significant topics using **Mini-batch K-means** and created an author **collaborative graph** from citation data to unveil research networks and collaborations.  
 
 ---
 
-## Dockerized ChatApp [🔗](https://github.com/RahulRai02/Dockerizing-Chat-App)
+### Dockerized ChatApp [🔗](https://github.com/RahulRai02/Dockerizing-Chat-App)
   - Developed a **Dockerized Chat Application** to ensure **portability** and seamless execution across various environments. Created **Dockerfiles** for both the frontend and backend, and established container connectivity using a **YAML configuration file**.  
   - Conducted **Apache Benchmark testing**, demonstrating that Dockerization improves development efficiency but not performance (e.g., single request response time: **1.856 ms** for Dockerized vs. **0.213 ms** for non-Dockerized). 
 
