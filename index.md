@@ -30,7 +30,7 @@ layout: default
 
 ## 🚀My Self-Taught iOS Journey 
 
-As a **self-taught iOS developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository here: [SwiftUI Learning Repository](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
+- As a **self-taught iOS developer**, I have explored and implemented various concepts in **Swift** and **SwiftUI**. Check out my learning repository on my [Swift & SwiftUI Learning Repositry](https://github.com/RahulRai02/Grind_Swift_And_SwiftUI).
 ---
 
 ## 📱 iOS Projects  
